@@ -1,0 +1,6 @@
+interface:
+  display_name: "Photoshop 广告图设计"
+  short_description: "根据网页风格制作 banner、优惠图和料金表，保存可编辑 PSD 与预览图"
+  default_prompt: "使用 $photoshop-ad-design，参考我的网页风格和图片描述，在 Photoshop 中制作分层 PSD，素材尽量使用 Image2，并保存 PSD 和 PNG 预览。"
+policy:
+  allow_implicit_invocation: true
